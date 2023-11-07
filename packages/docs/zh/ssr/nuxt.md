@@ -5,9 +5,9 @@
 ## 安装 %{#installation}%
 
 ```bash
-yarn add pinia @pinia/nuxt
+yarn add @pinia/nuxt
 # 或者使用 npm
-npm install pinia @pinia/nuxt
+npm install @pinia/nuxt
 ```
 
 :::tip 
